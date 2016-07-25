@@ -13,3 +13,7 @@ Write a javascript module called "Bookshelf" that can be used to store a maximum
 10. remove a book
 11. make sure that book parameters cannot be changed once the book has been put on the shelf
 12. search a book by either of three parameters (partial search)
+
+------
+
+Just a single file w/ module structure is fine. 

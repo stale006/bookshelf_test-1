@@ -16,4 +16,4 @@ Write a javascript module called "Bookshelf" that can be used to store a maximum
 
 ------
 
-Just a single file w/ module structure is fine. 
+A single javascript file is fine.
